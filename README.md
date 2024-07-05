@@ -8,3 +8,10 @@ and now over 10 million players.
 # How to Play
 Aviator is a new kind of social multiplayer game consisting of an increasing curve that can collapse at any moment.
 When the round starts, a multiplier scale starts to grow. The player must earn money before the lucky plane flies away.
+
+
+### Screenshots
+
+![image](https://github.com/AviatorBot/Aviator/assets/174831792/1cf1ea2d-0a5f-4ae1-8cc7-28f1046a3c41)
+
+
